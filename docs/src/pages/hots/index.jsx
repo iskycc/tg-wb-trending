@@ -8,7 +8,7 @@ function useQuery() {
   return new URLSearchParams(useLocation().search);
 }
 
-const URL = "https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@master";
+const URL = "https://cdn.jsdelivr.net/gh/iskycc/tg-wb-trending@master";
 
 export default function Hots() {
   const query = useQuery();
