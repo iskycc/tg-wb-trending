@@ -11,7 +11,7 @@ function Home() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://t.me/weibo_hots"
+              href="https://t.me/PushChen"
               className="text-danger"
             >
               telegram bot
@@ -22,7 +22,7 @@ function Home() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/xiadd/tg-wb-trending"
+              href="https://github.com/iskycc/tg-wb-trending"
               className="btn btn-lg btn-dark fw-bold"
             >
               Github
